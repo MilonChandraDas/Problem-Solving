@@ -1,9 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-constexpr char nl = '\n';
-
 int main() {
-    int a;
-    cout << a;
+    cout << "Hello";
+    return 0;
 }
